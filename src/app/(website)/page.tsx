@@ -1,5 +1,5 @@
 import BenefitsSection from "@/components/design/BenifitsSection";
-import CTASection from "@/components/design/CTAsection";
+import CTASection from "@/components/design/CTASection";
 import FeatureSection from "@/components/design/FeatureSection";
 import FeaturesList from "@/components/design/FeatureList";
 import Footer from "@/components/design/Footer";
